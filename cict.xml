@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Students>
+	
+
+
+
+
+
+
+<student><id>2022100</id><photo>pic1.jpg</photo><name>John Andrew P. Sebastian</name><course>BSIS</course></student><student><id>2022101</id><photo>pic2.jpg</photo><name>Mark T. Dalmacio</name><course>BSIS</course></student><student><id>2022102</id><photo>pic3.jpg</photo><name>Qvell R. Crisostomo</name><course>BSIT</course></student><student><id>2022103</id><photo>pic4.jpg</photo><name>Roomer John R. Sta. Ana</name><course>BSIT</course></student><student><id>2022104</id><photo>pic5.jpg</photo><name>Zyron Jacob M. Bitara</name><course>BSIT</course></student><student><id>2022105</id><photo>pic6.jpg</photo><name>Mary Jane P. Palmes</name><course>BSIT</course></student><student><id>2022106</id><photo>pic7.jpg</photo><name>Sheree Kaye L. Mangaran</name><course>BSIT</course></student></Students>
